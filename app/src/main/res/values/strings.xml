@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mikcdmo</string>
+    <string name="start_location_montioring">Start Location montioring</string>
+    <string name="start_geofence_montioring">Start geofence montioring</string>
+</resources>
